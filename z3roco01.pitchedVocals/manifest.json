@@ -1,0 +1,10 @@
+{
+  "Id": "z3roco01.pitchedVocals",
+  "AssemblyPath": "z3roco01.pitchedVocals.dll",
+  "Metadata": {
+    "Name": "Pitched Vocals",
+    "Author": "z3roco01",
+    "Version": "1.0.0",
+    "Description": "Changes the pitch of animal vocalizations based on the players voice pitch !!"
+  }
+}
