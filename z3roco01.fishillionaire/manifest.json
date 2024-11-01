@@ -1,0 +1,10 @@
+{
+  "Id": "z3roco01.fishillionaire",
+  "AssemblyPath": "z3roco01.fishillionaire.dll",
+  "Metadata": {
+    "Name": "Fishillionaire",
+    "Author": "z3roco01",
+    "Version": "100000.0.0",
+    "Description": "makes you the fishillionaire"
+  }
+}
