@@ -1,0 +1,10 @@
+{
+  "Id": "z3roco01.qualityNotifications",
+  "AssemblyPath": "z3roco01.qualityNotifications.dll",
+  "Metadata": {
+    "Name": "Quality Notifications",
+    "Author": "z3roco01",
+    "Version": "1.0.0",
+    "Description": "Adds notifications when you get a fish of a new quality !"
+  }
+}

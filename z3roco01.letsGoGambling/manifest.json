@@ -1,0 +1,11 @@
+{
+  "Id": "z3roco01.letsGoGambling",
+  "AssemblyPath": "z3roco01.letsGoGambling.dll",
+  "PackPath":  "z3roco01.letsGoGambling.pck",
+  "Metadata": {
+    "Name": "Lets Go Gambling !!",
+    "Author": "z3roco01",
+    "Version": "1.0.0",
+    "Description": "Adds slot machines to the game !"
+  }
+}

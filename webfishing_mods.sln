@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z3roco01.pitchedVocals", "z
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z3roco01.fishillonaire", "z3roco01.fishillionaire\z3roco01.fishillonaire.csproj", "{A727DA2F-BFD7-40E6-9548-57FD3974816F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z3roco01.qualityNotifications", "z3roco01.qualityNotifications\z3roco01.qualityNotifications.csproj", "{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z3roco01.letsGoGambling", "z3roco01.letsGoGambling\z3roco01.letsGoGambling.csproj", "{3E75BF8F-7E54-459B-A5FE-C2BFD85A64A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A727DA2F-BFD7-40E6-9548-57FD3974816F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A727DA2F-BFD7-40E6-9548-57FD3974816F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A727DA2F-BFD7-40E6-9548-57FD3974816F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D78370-4E2C-45D5-A74C-BE1BCD9DE05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E75BF8F-7E54-459B-A5FE-C2BFD85A64A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E75BF8F-7E54-459B-A5FE-C2BFD85A64A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E75BF8F-7E54-459B-A5FE-C2BFD85A64A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E75BF8F-7E54-459B-A5FE-C2BFD85A64A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
